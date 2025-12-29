@@ -40,10 +40,27 @@ Currently focused on mastering **React** and exploring how to integrate **AI** i
 
 ### 📊 GitHub Stats  
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Chisomworlu12&theme=tokyonight"
-  height="160"
-/>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Chisomworlu12&show_icons=true&theme=tokyonight&cache_seconds=1800"
+    height="160"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chisomworlu12&layout=compact&theme=tokyonight&cache_seconds=1800"
+    height="160"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Chisomworlu12&theme=tokyonight&hide_border=true"
+    height="160"
+    alt="GitHub streak"
+  />
+</p>
+
 
 
 ---
