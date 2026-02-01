@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Chisom Worlu  
 
 💻 **Frontend Developer** | Passionate about building modern, responsive, and user-friendly web applications.  
-Currently focused on mastering **React** and exploring how to integrate **AI** into web projects.  
+Currently focused on mastering **Next js** and exploring how to integrate **AI** into web projects.  
 
 ---
 
 ### 🚀 About Me  
 - 🎯 Dedicated to improving as a frontend developer through hands-on projects  
-- 💡 Currently learning: React, APIs, and AI integration  
+- 💡 Currently learning:Next Js and Phyton 
 - 🧠 Interested in: Frontend engineering and AI-powered web applications  
 - 🌱 Goal: To grow into a **Full-Stack & AI-Focused Developer**  
 
