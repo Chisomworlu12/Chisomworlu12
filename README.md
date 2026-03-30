@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chisom Worlu
 
-🚀 **Frontend Developer** | Building full-stack products with React, Next.js, and AI integration  
+🚀 **Software Engineer** | Building full-stack products with React, Next.js, Python and AI integration  
 1 year of hands-on experience creating responsive, high-performance web applications  
 Currently leading **News Summarizer** (12 active users) and **Trendboard AI**
 
@@ -9,7 +9,7 @@ Currently leading **News Summarizer** (12 active users) and **Trendboard AI**
 ### 💼 About Me
 
 - 🎯 Passionate problem-solver focused on building products that drive real impact
-- 💡 Experienced in: React, Next.js, TypeScript, Firebase, Supabase, Google Gemini
+- 💡 Experienced in: React, Next.js, TypeScript, Firebase, Supabase, Google Gemini, Python
 - 🤖 Specializing in AI integration (Google Gemini, OpenAI API, custom DOMParser)
 - 👥 Mentor to other developers; believer in collaborative growth
 - 🌱 Currently expanding skills in Python and advanced backend architecture
