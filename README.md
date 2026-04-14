@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Chisom Worlu
 
 🚀 **Software Engineer** | Building full-stack products with React, Next.js, Python and AI integration  
-1 year of hands-on experience creating responsive, high-performance web applications  
+A year+ of hands-on experience creating responsive, high-performance web applications  
 Currently leading **News Summarizer** (12 active users) and **Trendboard AI**
 
 ---
