@@ -10,7 +10,7 @@ Currently building **vworka** — a worker verification platform — and open to
 
 - 🎯 Backend-focused engineer who ships full-stack products with real users
 - 💡 Experienced in: Python, FastAPI, Redis, PostgreSQL, React, Next.js, TypeScript, OpenAI API
-- 🔐 Built OAuth 2.0 integrations with HubSpot, Airtable and Notion using FastAPI and Redis
+- 🔐 Experienced building OAuth 2.0 integrations and third-party API connections using FastAPI and Redis
 - 🤖 Specializing in AI-powered backend systems and third-party API integrations
 - 🌱 Currently deepening expertise in distributed systems and scalable backend architecture
 
