@@ -2,7 +2,7 @@
 
 🚀 **Full-Stack Software Engineer** | Python, FastAPI, React,Next js, PostgreSQL, Redis, AI Integration  
 Experienced building production-grade backend systems, REST APIs, and AI-powered applications  
-Currently building **vworka** — a worker verification platform — and open to backend engineering roles
+Currently building **vworka** — a worker verification platform — and open to backend and frontend engineering roles
 
 ---
 
